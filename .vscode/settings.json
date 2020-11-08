@@ -1,0 +1,12 @@
+{
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnPaste": true,
+  "prettier.jsxSingleQuote": true,
+  "html.format.endWithNewline": true,
+  "editor.tabSize": 2,
+  "editor.wordWrap": "on",
+  "prettier.singleQuote": true,
+  "prettier.useTabs": true,
+  "editor.formatOnType": true
+}
